@@ -1,0 +1,248 @@
+- **Accounting Definition**
+	- The process of identifying recording summarizing and analyzing an entities financial transactions and reporting them in financial statements.
+- **Accounting equation**
+	- Stuff that a business owns = stuff that business owes
+	- Assets = Liability (3rd party) + Equity (Owners stake)
+	- Assets = Liability + Equity(Owner's Contributions - Dividends + Retained Earnings)
+	- Assets = Liability + Equity(Owner's Contributions - Dividends + Retained Earnings + Revenue - Expenses )
+	- **Assets -** Economic resources that a company controls as a result of past events and from which future economic benefits are expected to flow to the company.
+		- **Current Assets** (Assets expected to be converted to cash or used up within one year)
+			- Cash and Cash Equivalents
+			- Marketable Securities
+			- Accounts Receivable
+			- Notes Receivable
+			- Inventory
+			- **Prepaid Expenses** - Prepaid Rent, Prepaid Insurance, Prepaid Advertising
+			- Supplies
+		- **Non-Current Assets** (Assets expected to benefit the company for more than one year)
+			- Property, Plant, and Equipment (PP&E)
+			- Accumulated Depreciation
+			- Long-Term Investments
+			- Notes Receivable
+		- **Tangible Assets**
+		- **Intangible Assets**
+	- **LIABILITIES -** Present obligations of an entity arising from past events, the settlement of which is expected to result in an outflow from the entity of resources.
+		- Current Liabilities(Within 1 year)
+			- Accounts Payable
+			- Salaries Payable
+			- Utilities Payable
+			- Rent Payable
+			- Interest Payable
+			- Unearned Revenue (or Deferred Revenue) - Yes cash are assets but we need to keep track of at least 2 accounts in double entry so its liability too. You owe something (goods, services, or a refund) to the customer because of a past transaction (receiving cash in advance).
+			- Short-Term Notes Payable
+			- Taxes Payable
+			- Accruals - the accumulation or increase of something over time, especially payments or benefits. A charge for work that has been done but not yet [invoiced](https://www.google.com/search?sca_esv=acf673aa48e31f36&rlz=1C1ONGR_enIN1147IN1147&sxsrf=AHTn8zrS9djn26x6-4uL0Fp_n4uiBJGT3Q:1740509766850&q=invoiced&si=APYL9bvKONvNV8bZy6puQpL09JUBTagjSE7dcaGZnvleHuiIoLvYgNLWpKnCbO8ivgAWlZR-ExCn-Vje9Vjlzr7b4LxaYGnQQveiiImmJMRPv_xw70YwDlM%3D&expnd=1&sa=X&sqi=2&ved=2ahUKEwjzjYaTwN-LAxX1wzgGHYq-AIYQyecJegQIIxAc), for which provision is made at the end of a financial period.
+		- Non-Current Liabilities(Over 1year)
+			- Long-Term Notes Payable
+			- Bonds Payable
+			- Mortgages Payable
+			- Lease Obligations
+		- **Contingent liability -** A **contingent liability** is a **potential liability** that may or may not become an actual liability, depending on whether some **future event occurs or fails to occur.** It's essentially a **possible obligation** that is dependent on a future outcome that is not certain at the present time. **Examples -  Lawsuits, Warranty Obligations, Environmental Liabilities**
+	- **Equity -**
+		- Types of Business models (Entity Types) <p>![[equity.png]]  </p>
+			- Sole Proprietors
+			- Partnerships
+			- Corporations
+- **Debit and Credit**
+	- Debit represents destination where economic benefits flows to 
+	- Credit Represents sources of these economic benefits
+	- It's crucial to remember that "credit" and "debit" are just labels – they don't inherently mean "increase" or "decrease," or "good" or "bad." Their effect depends on the type of account you're dealing with.
+	- Our bank account is liability to bank so it may appear opposite its just POV
+- **Double entry accounting**
+	- Double-entry accounting is a system of bookkeeping where every financial transaction is recorded in **at least two accounts** as both a **debit** and a **credit**.
+	- **"Double-entry"** refers to this two-sided nature of each transaction.
+	- Example - Purchase of Supplies with Cash. A business buys office supplies for $100 and pays cash.
+	- Double-Entry Analysis:
+		- Identify the Impact:
+			- **Supplies are coming _into_ the business.** This is an _increase_ in an **asset** (Supplies).
+			- **Cash is going _out_ of the business.** This is a _decrease_ in an **asset** (Cash).
+		- Determine the Accounts Affected and their Types:
+			- **Supplies:** Asset account. Normal balance is **Debit**. To _increase_ an asset, we **Debit** it.
+			- **Cash:** Asset account. Normal balance is **Debit**. To _decrease_ an asset, we **Credit** it.
+		- Apply Debits and Credits:
+			- **Debit:** Supplies account for $100 (increase in asset).
+			- **Credit:** Cash account for $100 (decrease in asset).
+		- Journal Entry:
+			- Debits ($100) = Credits ($100) – Balanced 
+- **Account
+	- In accounting, an **account** is a fundamental concept. Think of it as a **specific, categorized record** that is used to **track and summarize all the financial transactions** that affect a particular item or aspect of a business.
+	- **Key characteristics of an "account" in accounting:
+		- **Specific and Named:** Each account has a **unique and descriptive name** that clearly identifies what it represents.
+			- **Cash** (tracks all cash inflows and outflows)
+			- **Accounts Receivable** (tracks money owed to the business by customers)
+			- **Inventory** (tracks the value of goods held for sale)
+			- **Equipment** (tracks the value of equipment owned by the business)
+			- **Accounts Payable** (tracks money owed by the business to suppliers)
+			- **Salaries Expense** (tracks the cost of salaries paid to employees)
+			- **Sales Revenue** (tracks the income generated from sales)
+			- **Rent Expense** (tracks the cost of rent)
+			- **Owner's Equity** (tracks the owner's investment and retained earnings)
+		- **Tracks Increases and Decreases:** For each account, we record both **increases** and **decreases** that result from business transactions. This is done using the **debit and credit system**.
+		- **Maintains a Balance:** Each account maintains a **balance** which represents the net effect of all the transactions recorded in that account up to a specific point in time.
+		- **Categorized into Account Types:** Accounts are broadly categorized into five main types, which relate to the fundamental accounting equation:
+			- **Assets:** Things the business owns that have value (e.g., Cash, Equipment, Inventory).
+			- **Liabilities:** What the business owes to others (e.g., Accounts Payable, Loans Payable).
+			- **Equity:** The owner's stake in the business (e.g., Owner's Capital, Retained Earnings).
+			- **Revenue:** Income generated from the business's operations (e.g., Sales Revenue, Service Revenue).
+			- **Expenses:** Costs incurred to generate revenue (e.g., Salaries Expense, Rent Expense, Utilities Expense).
+			- **Dividends**: dividends are a distribution of a company's profits to its shareholders.
+		- **Part of the Double-Entry System:** Accounts are the core component of the **double-entry bookkeeping system**. This system requires that every transaction affects at least two accounts. For every transaction, the total debits must equal the total credits across all accounts affected, ensuring the accounting equation (Assets = Liabilities + Equity) remains balanced.
+- **Financial statements
+	- Definition -  These are accounting report that summarizes business's activities over period of time.
+	- **Balance sheet
+		-  Definition - Gives snapshot of accounting equation(Assets, Liability and Equity) at point in time (Not over the period of time.)
+		- 
+	- Income Statements         <p>![[Assets/677f0e39846561983690bb7dbe58630f_MD5.jpeg ]</p>
+		- The income statement is a financial report that shows a company's income and expenditures during a set period. An income statement shows a business's **revenue, expenses, gains, and losses, starting with revenue and ending with net income**.
+		- Main Components
+			- Revenue (Sales, Turnover)
+				- The total amount of money a company earned from its primary business activities during the period.
+			- Cost of Goods Sold (COGS) or Cost of Sales
+				- The direct costs attributable to the production of the goods sold or services rendered. This is directly linked to generating revenue.
+			- Gross Profit
+				- Revenue - Cost of Goods Sold = Gross Profit
+				- Shows how efficiently a company is managing its production costs relative to its revenue. It represents the profit a company makes _before_ considering operating expenses.
+				- **Gross Profit Margin:** (Gross Profit / Revenue) * 100%. This is a key profitability ratio showing the percentage of revenue remaining after covering the cost of goods sold. Higher is generally better.
+			- Operating Expenses (OPEX)
+				- These are the costs incurred to run the business operations, _other than_ the cost of goods sold. Examples - Salaries, marketing, utilities, rent, ETC
+			- Operating Income (EBIT - Earnings Before Interest and Taxes)
+				- Gross Profit - Operating Expenses = Operating Income
+				- It represents the profit a company generates from its core operations _before_ considering interest and taxes.
+				- **EBIT Margin (Operating Profit Margin):** (Operating Income / Revenue) * 100%
+			- Interest Expense
+				- The cost of borrowing money. Companies often borrow money (take on debt) to finance operations or investments. This is the interest they pay on those loans.
+			- Income Before Taxes (Pre-tax Income or Earnings Before Tax - EBT)
+				- Operating Income - Interest Expense (+ Interest Income if applicable) = Income Before Taxes
+			- Income Tax Expense
+				- The amount of taxes a company owes to government authorities based on its taxable income.
+			- Net Income (Net Profit, Earnings, "Bottom Line")
+				- Income Before Taxes - Income Tax Expense = Net Income
+				- The "bottom line" because it's at the very bottom of the income statement. **This is the final profit or loss for the period after all expenses and taxes have been deducted from revenue.** This is the profit available to shareholders (owners of the company).
+				- **Net Profit Margin (Net Income Margin):** (Net Income / Revenue) * 100%.
+				- <p> 
+![[Assets/e6f9a37937df0d37f076b1ecff1ea991_MD5.jpeg]] </p>
+- **T Accounts
+	- A T-account is a **visual representation** of an individual **account** in the general ledger. <p> ![[Assets/8b12e98c96d2749618d6daab92295206_MD5.jpeg]]]] </p>
+- **General ledger
+	- The **general ledger (GL)** is the **central repository** for all of a company's **account information**. It is the **main bookkeeping record** that contains all the accounts of a business and all the transactions recorded in those accounts.
+		- **Invoice**
+			- An **invoice** is a **commercial document issued by a seller to a buyer** relating to a sale transaction. It's essentially a **bill** for goods or services that have been provided to the buyer but for which payment is not made immediately
+			- Think of an invoice as a formal "request for payment" or a "bill for services rendered or goods delivered, but not yet paid for."
+			- Purpose of an Invoice:
+				- Request for Payment
+				- Documentation of a Sale
+				- Details of the Transaction
+					- What goods or services were provided.
+					- Quantity of goods or hours of service.
+					- Prices per unit or service rate.
+					- Total amount due.
+					- Payment terms (e.g., net 30 days).
+					- Applicable taxes and discounts.
+				- Tracking Receivables and Payables
+				- Basis for Accounting Records
+				- Audit Trail
+				- Customer Service and Communication
+	- it's typically a **digital database** within accounting software.
+	- Each Transaction is called **Journal Entry** and its recorded in **general ledger. <p>![[aa41c678958e318cb950e13f81b610dd_MD5.jpeg]] </p>
+- **Accounting principles**
+	- **Underlying Assumptions (The Foundation)
+		- Going Concern (Continuity Assumption)
+		- Monetary Unit Assumption
+		- Economic Entity Assumption (Business Entity Assumption)
+		- Time Period Assumption (Periodicity Assumption)
+	- **Qualitative Characteristics of Financial Information (What Makes Information Useful)
+		- Fundamental Qualitative Characteristics
+			- Relevance
+			- Faithful Representation (Reliability)
+		- Enhancing Qualitative Characteristics
+			- Comparability
+			- Verifiability
+			- Timeliness
+			- Understandability
+	- **Basic Accounting Principles & Constraints (Rules for Recording and Reporting)
+		- Historical Cost Principle
+		- Revenue Recognition Principle - Revenue should be recognized (recorded) when it is **earned** and **realized or realizable**. Generally, this means when goods are delivered or services are rendered, regardless of when cash is received.
+		- Expense Recognition Principle (Matching Principle) - Expenses should be recognized (recorded) in the same period as the revenues they helped generate. "Match expenses with revenues."
+		- Full Disclosure Principle (Adequate Disclosure)
+		- Consistency Principle
+	- **Constraints in Accounting (Practical Limitations)
+		- Materiality
+		- Cost Constraint (Cost-Benefit Constraint)
+		- Conservatism (Prudence)
+- **What is Invoice Processing?**
+	- Definition - Invoice processing is the entire workflow a business undertakes to **receive, manage, approve, and pay invoices** from its suppliers (for purchases) or to **create and send invoices to its customers** (for sales). It's a critical business process for managing both accounts payable (what you owe) and accounts receivable (what's owed to you).
+	- Why is Invoice Processing Important? - 
+		- **Maintaining good supplier relationships:** Paying suppliers on time and accurately is essential for positive relationships and potentially favorable payment terms.
+		- **Effective cash flow management:** Knowing when invoices are due and tracking payments helps manage cash outflows and avoid late payment penalties.
+		- **Accurate financial reporting:** Correctly processing invoices ensures that expenses and revenues are recorded accurately in the accounting system, leading to reliable financial statements.
+		- **Cost control:** Invoice processing workflows can include checks and approvals to ensure invoices are valid, accurate, and for authorized purchases.
+		- **Process efficiency:** Automated invoice processing can significantly reduce manual work, errors, and processing time, freeing up staff for more strategic tasks.
+		- **Compliance and auditability:** A well-defined process ensures invoices are properly documented, approved, and recorded, aiding in compliance and audits.
+	- Why SAP is Well-Suited for Invoice Processing
+		- **Integrated System:** SAP is an ERP system, meaning it integrates various business functions (like procurement, finance, materials management, etc.) into a single system. This integration is crucial for efficient invoice processing as invoices often relate to activities in other departments.
+		- **Automation Capabilities:** SAP offers powerful automation features for invoice processing, including:
+			- **Automated data capture:** Optical Character Recognition (OCR) and Intelligent Invoice Processing (IIP) can extract data from scanned or electronic invoices, reducing manual data entry.
+			- **Workflow automation:** SAP Workflow can route invoices for approvals based on predefined rules and hierarchies.
+			- **Automated matching:** SAP can automatically match invoices to purchase orders (POs) and goods receipts to verify accuracy.
+			- **Automated payment processing:** SAP can automate the creation of payment proposals and execution of payments.
+		- **Financial Accounting Integration:** SAP's strong financial accounting (FI) module is tightly integrated with invoice processing. This ensures that all invoice-related activities are automatically reflected in the general ledger and financial reports.
+		- **Audit Trail and Compliance:** SAP provides a comprehensive audit trail of all invoice processing steps, ensuring compliance with internal controls and regulatory requirements.
+		- **Scalability and Handling Volume:** SAP is built to handle large volumes of transactions, making it suitable for organizations with a high volume of invoices.
+		- **Customization and Configuration:** SAP is highly configurable, allowing businesses to tailor invoice processing workflows to their specific needs and approval hierarchies.
+	- How Invoice Processing Works in SAP (High-Level Workflow)
+		- Invoice Receipt:
+			- **Invoices arrive in various formats:** Paper invoices, electronic invoices (PDF, EDI, XML, etc.).
+			- **Receipt channels:** Mail, email, EDI, direct system integration (for electronic invoices).
+		- Invoice Data Capture (Manual or Automated):
+			- **Manual Data Entry (Less efficient):** Invoices are manually entered into SAP. This is time-consuming and prone to errors.
+		- Automated Data Capture (More efficient):
+			- **OCR (Optical Character Recognition):** Scans paper invoices and converts them into machine-readable text.
+			- **Intelligent Invoice Processing (IIP):** Uses AI and machine learning to intelligently extract data from various invoice formats, including PDFs and scanned images, with higher accuracy than basic OCR. This can learn and improve over time.
+			- **Data is extracted:** Invoice header data (invoice number, date, vendor, amount, etc.) and line item details are captured.
+			- **SAP Modules:** SAP Invoice Management by OpenText (a popular add-on solution) or SAP S/4HANA Intelligent Invoice Processing (standard functionality in S/4HANA) are often used for automated data capture.
+		- Invoice Verification and Matching:
+			- **3-Way Match (Typical for Purchase Orders):** SAP automatically attempts to match the invoice data against:
+				- **Purchase Order (PO):** Verifies that the invoice is for goods or services that were actually ordered.
+				- **Goods Receipt (GR) or Service Entry Sheet:** Verifies that the goods or services have been received or performed.
+				- **Invoice Data:** Checks for discrepancies in quantity, price, and other details between the invoice, PO, and GR/Service Entry Sheet.
+			- **2-Way Match (Sometimes used for simpler scenarios):** Matches only the Invoice to the Purchase Order.
+			- **Variance Handling:** If discrepancies are found (price differences, quantity mismatches), SAP can trigger workflow alerts and route the invoice for manual review and resolution.
+			- **SAP Module:** Primarily within **SAP Materials Management (MM)** and **SAP Financial Accounting (FI)** modules.
+		- Approval Workflow:
+			- **Routing for Approval:** Invoices are routed through a pre-defined approval workflow based on rules (e.g., amount, cost center, requester, type of invoice).
+			- **Digital Approval Process:** Approvers receive notifications within SAP (or via email), review the invoice image and data in SAP, and approve or reject it electronically.
+			- **Workflow Flexibility:** SAP Workflow allows for complex, multi-level approval processes.
+			- **SAP Module:** **SAP Business Workflow** or **SAP Workflow Management**.
+		- Posting to Financial Accounting (FI-AP):
+			- **Automatic Posting:** Once the invoice is verified and approved, SAP automatically creates the **accounting document** (journal entry) to record the expense or asset purchase and the liability to the vendor.
+			- **Account Assignment:** SAP determines the correct general ledger accounts to post to (e.g., expense accounts, inventory accounts, tax accounts) based on configurations and master data.
+			- **Real-time Updates:** Financial records are updated in real-time.
+			- **SAP Module:** **SAP Financial Accounting - Accounts Payable (FI-AP)**.
+		- Payment Processing:
+			- **Payment Proposal Run:** SAP can generate payment proposals based on due dates, payment terms, cash discounts, and other criteria.
+			- **Payment Approval:** Payment proposals may also require approval.
+			- **Payment Execution:** SAP integrates with banking systems to execute payments electronically (e.g., ACH, wire transfers) or generate checks.
+			- **Payment Posting:** Once payments are made, SAP automatically posts the cash disbursement and reduces the accounts payable balance.
+			- **SAP Module:** **SAP Financial Accounting - Accounts Payable (FI-AP)**, **SAP Cash Management**.
+		- Archiving and Document Management:
+			- **Digital Archiving:** SAP can digitally archive invoice images and related documents for compliance, audit, and easy retrieval.
+			- **Document Repository:** SAP Document Management or integrated solutions are used to store and manage invoice documents.
+		- Key SAP Modules Involved in Invoice Processing:
+			- **SAP MM (Materials Management):** Procurement process, purchase orders, goods receipts, invoice verification (MM-IV - Logistics Invoice Verification).
+			- **SAP FI (Financial Accounting):** General ledger accounting, chart of accounts, financial reporting.
+			- **SAP FI-AP (Accounts Payable):** Vendor master data, invoice posting, payment processing, accounts payable reporting.
+			- **SAP Workflow:** Workflow automation for approvals, routing, and notifications.
+			- **SAP Invoice Management by OpenText / SAP S/4HANA Intelligent Invoice Processing (IIP):** Automated data capture (OCR/AI).
+			- **SAP Basis / Technical Infrastructure:** Underlying system infrastructure for SAP.
+		- Benefits of SAP Invoice Processing:
+			- **Increased Efficiency:** Automation reduces manual tasks, speeds up processing cycles, and lowers costs.
+			- **Improved Accuracy:** Automated matching and data capture reduce data entry errors and discrepancies.
+			- **Stronger Controls:** Workflow approvals and audit trails enhance internal controls and compliance.
+			- **Faster Payment Cycles:** Faster processing can lead to taking advantage of early payment discounts and improved supplier relationships.
+			- **Better Visibility:** Real-time visibility into invoice status, payment due dates, and spending patterns.
+			- **Reduced Paper and Storage:** Digital invoice processing reduces paper handling and storage requirements.
+			- **Integration and Data Consistency:** Integration with other SAP modules ensures data consistency across the organization.
+- Revenue Recognition Principle
+	- The revenue recognition principle, a feature of accrual accounting, **requires that revenues are recognized on the income statement in the period when realized and earned**—not necessarily when cash is received.
+- Depreciation
+	-  Depreciation is a concept in accounting that reflects the **decrease in the value of an asset over time.**

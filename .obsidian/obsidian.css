@@ -1,0 +1,7 @@
+/*  Using !important - Last Resort */
+.markdown-preview-view img,
+.markdown-source-view img {
+    width: 500px !important; /* Added !important */
+    height: 300px !important; /* Added !important */
+    object-fit: contain;
+}
