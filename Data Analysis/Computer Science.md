@@ -1,4 +1,4 @@
-## Digital Logic & Basic Building Blocks (Foundation)
+# 1 Digital Logic & Basic Building Blocks (Foundation)
 
 #### Number Systems (Binary, Decimal, Hexadecimal):
 
@@ -6,7 +6,7 @@
 
 #### Combinational and Sequential Circuits:
 
-## CPU Architecture (The Brain)
+# 2 CPU Architecture (The Brain)
 
 #### Basic CPU Components and Function:
 
@@ -18,7 +18,7 @@
 
 #### Control Unit Design (Microprogrammed vs. Hardwired - Conceptual):
 
-## Memory System (Data Storage and Access)
+# 3 Memory System (Data Storage and Access)
 
 #### Memory Hierarchy:
 
@@ -30,7 +30,7 @@
 
 #### Secondary Storage (Hard Drives, SSDs - Briefly):
 
-## How Code Works & Executes (Bridging Software and Hardware)
+# 4 How Code Works & Executes (Bridging Software and Hardware)
 
 #### Assembly Language:
 

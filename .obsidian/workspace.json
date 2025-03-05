@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Accounts/Accounting.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science.md",
+                "file": "Accounts/Accounting old.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computer Science"
+              "title": "Accounting old"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,30 +212,30 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "686514df55ad89d7",
+  "active": "4f747124bbdf27cd",
   "lastOpenFiles": [
-    "Computer Science.md",
-    "Accounts/Accounting.md",
     "Accounts/Accounting old.md",
+    "Accounts/Accounting.md",
+    "Data Analysis/Computer Science.md",
+    "Data Analysis/Statistics & probability.md",
+    "Data Analysis/SQL.md",
+    "Data Analysis/Python.md",
+    "Data Analysis/Power BI.md",
     "Assets/e6f9a37937df0d37f076b1ecff1ea991_MD5.jpeg",
     "Assets/{2D591E33-4FAB-4086-AC09-176A03157BB7} 1.png",
     "Assets/{2D591E33-4FAB-4086-AC09-176A03157BB7}.png",
     "Assets/677f0e39846561983690bb7dbe58630f_MD5.jpeg",
     "Assets/{FDB0B656-D138-4F8E-A7A4-94DBBC4AC16C}.png",
     "Test.md",
-    "Data Analysis/Statistics & probability.md",
     "Assets/histogram-example-1.png",
     "Assets/histogram.jpeg",
     "Assets/c731eee7eef09ab6562642a21af1ab45_MD5.jpeg.md",
     "Assets/bubble chart.jpg",
     "Assets/area chart.png",
     "Assets/aa41c678958e318cb950e13f81b610dd_MD5.jpeg",
-    "Data Analysis/SQL.md",
     "Accounts",
     "Data Analysis/Excel.md",
     "Assets",
-    "Data Analysis/Python.md",
-    "Data Analysis/Power BI.md",
     "Data Analysis",
     "Untitled 1.canvas",
     "Untitled.canvas",

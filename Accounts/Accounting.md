@@ -1,6 +1,6 @@
 # Definition
 
-The process of **identifying** **recording** **summarizing** and **analyzing** an **entities** financial transactions and reporting them in financial statements.
+The process of **identifying** **recording** **summarizing** and **analyzing** an **entities** financial transactions and reporting them in financial statements to current and potential investors, customers.
 
 # Accounting equation
 
@@ -227,11 +227,4 @@ Customization and Configuration: SAP is highly configurable, allowing businesses
 	7. **Integration and Data Consistency:**
 
 
-
-
-
-
-
-
-
-
+# Accounting Principles
