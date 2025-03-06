@@ -107,9 +107,33 @@ In accounting, an **account** is a fundamental concept. Think of it as a **speci
 # Financial statements
 
 These are accounting report that summarizes business's activities over period of time.
-- Balance sheet
-- Income Statements
-- Cash Flow Statements
+1. Balance sheet
+2. Income Statements
+3. Cash Flow Statements
+
+### Balance sheet
+
+![[Assets/bf31ea08f2aa107b9d9577377ae82b51_MD5.jpeg]]
+
+
+### Income Statement
+![[income stat.png]]
+
+
+![[Assets/94ddbe58e1574af8fe62d67f5f3a4a10_MD5.jpeg]]
+
+
+### Cash Flow Statement
+
+
+
+
+
+### Statement of changes in equity
+
+![[Assets/3cafd16a77838b75b3d98c9f577d04d9_MD5.jpeg]]
+
+
 
 # T Accounts
 A T-account is a **visual representation** of an individual **account** in the general ledger.

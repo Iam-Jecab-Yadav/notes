@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "4f747124bbdf27cd",
+            "id": "686514df55ad89d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,20 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "Accounting"
-            }
-          },
-          {
-            "id": "686514df55ad89d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Accounts/Accounting old.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Accounting old"
             }
           },
           {
@@ -212,10 +198,17 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "4f747124bbdf27cd",
+  "active": "686514df55ad89d7",
   "lastOpenFiles": [
+    "Assets/3cafd16a77838b75b3d98c9f577d04d9_MD5.jpeg",
+    "Assets/{4D70F167-1525-46C8-95B8-B4024CC8CE32}.png",
+    "Assets/94ddbe58e1574af8fe62d67f5f3a4a10_MD5.jpeg",
+    "Assets/{8ADC53A0-F88D-4325-93B4-22A90AFB17EE}.png",
+    "Assets/income stat.png",
     "Accounts/Accounting old.md",
     "Accounts/Accounting.md",
+    "Assets/bf31ea08f2aa107b9d9577377ae82b51_MD5.jpeg",
+    "Assets/{615025B6-F758-4645-A8F0-9FB0D7CF4DD4}.png",
     "Data Analysis/Computer Science.md",
     "Data Analysis/Statistics & probability.md",
     "Data Analysis/SQL.md",
@@ -223,16 +216,10 @@
     "Data Analysis/Power BI.md",
     "Assets/e6f9a37937df0d37f076b1ecff1ea991_MD5.jpeg",
     "Assets/{2D591E33-4FAB-4086-AC09-176A03157BB7} 1.png",
-    "Assets/{2D591E33-4FAB-4086-AC09-176A03157BB7}.png",
     "Assets/677f0e39846561983690bb7dbe58630f_MD5.jpeg",
     "Assets/{FDB0B656-D138-4F8E-A7A4-94DBBC4AC16C}.png",
     "Test.md",
-    "Assets/histogram-example-1.png",
-    "Assets/histogram.jpeg",
     "Assets/c731eee7eef09ab6562642a21af1ab45_MD5.jpeg.md",
-    "Assets/bubble chart.jpg",
-    "Assets/area chart.png",
-    "Assets/aa41c678958e318cb950e13f81b610dd_MD5.jpeg",
     "Accounts",
     "Data Analysis/Excel.md",
     "Assets",
