@@ -6,8 +6,8 @@ The process of **identifying** **recording** **summarizing** and **analyzing** a
 
 **Stuff that a business owns = stuff that business owes**
 **Assets = Liability (3rd party) + Equity (Owners stake)**
-**Assets = Liability + Equity(Owner's Contributions - Dividends + Retained Earnings)**
-**Assets = Liability + Equity(Owner's Contributions - Dividends + Retained Earnings + Revenue - Expenses )**
+**Assets = Liability + Equity(Owner's Contributions - Dividends + Beginning Retained Earnings + Net Income)**
+**Assets = Liability + Equity(Owner's Contributions - Dividends + Beginning Retained Earnings + Revenue - Expenses )**
 
 ### Assets
 Economic resources that a company controls as a result of past events and from which future economic benefits are expected to flow to the company.
@@ -61,7 +61,7 @@ In accounting, **equity** represents the **owners' residual interest in the asse
 # Debit and Credit
 **Debit represents destination where economic benefits flows to**
 **Credit Represents sources of these economic benefits**
-It's crucial to remember that "credit" and "debit" are just labels – they don't inherently mean "increase" or "decrease," or "good" or "bad." Their effect depends on the type of account you're dealing with. Our bank account is liability to bank so it may appear opposite its just POV.
+It's crucial to remember that "credit" and "debit" are just labels – they don't inherently mean "increase" or "decrease," or "good" or "bad." Their effect depends on the type of account you're dealing with. **Our bank account is liability to bank so it may appear opposite its just POV.**
 
 # Double entry accounting
 Double-entry accounting is a system of bookkeeping where every financial transaction is recorded in **at least two accounts** as both a **debit** and a **credit**.
@@ -103,6 +103,51 @@ In accounting, an **account** is a fundamental concept. Think of it as a **speci
 	- **Expenses:** Costs incurred to generate revenue (e.g., Salaries Expense, Rent Expense, Utilities Expense).
 	- **Dividends**: dividends are a distribution of a company's profits to its shareholders.
 - **Part of the Double-Entry System:** Accounts are the core component of the **double-entry bookkeeping system**. This system requires that every transaction affects at least two accounts. For every transaction, the total debits must equal the total credits across all accounts affected, ensuring the accounting equation (Assets = Liabilities + Equity) remains balanced.
+
+### Imp accounts
+1. Assets
+	1. Cash
+	2. Accounts Receivable
+	3. Inventory
+	4. Prepaid Expenses
+	5. Property, Plant, and Equipment (PP&E)
+	6. Intangible Assets
+	7. Investments
+2. Liability
+	1. Accounts Payable
+	2. Salaries Payable
+	3. Unearned Revenue (Deferred Revenue)
+	4. Notes Payable
+	5. Bonds Payable
+	6. Taxes Payable
+3. Equity
+	1. Common Stock (or Share Capital)
+	2. Retained Earnings
+	3. Dividends Payable
+4. Revenue Accounts
+	1. Sales Revenue (or Service Revenue)
+	2. Interest Revenue
+	3. Rent Revenue
+5. Expense Accounts
+	1. Cost of Goods Sold (COGS)
+	2. Operating Expenses
+		1. Salaries and Wages Expense
+		2. Rent Expense
+		3. Utilities Expense
+		4. Depreciation Expense
+		5. Supplies Expense
+		6. Insurance Expense
+	3. Interest Expense
+	4. Tax Expense
+6. Adjustment accounts
+	1. Prepaid Expenses
+	2. Unearned Revenue (Deferred Revenue)
+	3. Accrued Revenues (Accrued Assets/Receivables)
+	4. Accrued Expenses (Accrued Liabilities/Payables)
+	5. Depreciation Expense (Contra-Asset)
+	6. Amortization Expense
+	7. Bad Debt Expense (Allowance for Doubtful Accounts):
+
 
 # Financial statements
 
@@ -252,3 +297,56 @@ Customization and Configuration: SAP is highly configurable, allowing businesses
 
 
 # Accounting Principles
+
+# Adjusting entries
+
+Adjusting entries are journal entries made at the **end of an accounting period** (like a month, quarter, or year) to update certain account balances. They are essential for adhering to the **accrual basis of accounting**.
+Think of it this way: As businesses operate, transactions happen throughout the period. Some of these transactions are straightforward cash exchanges recorded immediately. However, many aspects of business operations are more nuanced and require adjustments at the period's end to accurately reflect the company's financial position and performance.
+They ensure your income statement and balance sheet are accurate and present a true picture of your company's financial performance and position.
+
+## Types of Adjusting Entries
+
+![[Assets/5850a814fb4fe1dc81c0eda895f6213b_MD5.jpeg]]
+
+1. **Accruals**
+	1. **Accrued Revenues (Accrued Assets):** Revenue has been earned, but cash has not yet been received, and the revenue has not yet been recorded. **Entry:** Debit: Accounts Receivable (asset - or specific receivable like Interest Receivable), Credit: Service Revenue (or Interest Revenue).
+	2. **Accrued Expenses (Accrued Liabilities):** Expense has been incurred, but cash has not yet been paid, and the expense has not yet been recorded.**Entry:** Debit: Salaries Expense, Credit: Salaries Payable (liability).
+2. **Deferrals**
+	1. **Deferred Revenues (Unearned Revenues):** Cash has been received in advance for goods or services that have not yet been provided or earned. Revenue is deferred until it's actually earned. **Initial Entry (when cash is received):** Debit: Cash, Credit: Unearned Revenue (liability). **Adjusting Entry (at the end of each month as rent is earned):** Debit: Unearned Revenue, Credit: Rent Revenue.
+	2. **Deferred Expenses (Prepaid Expenses):** Cash has been paid in advance for expenses that have not yet been incurred or used. Expense is deferred until the asset's benefit is used up or expires. **Initial Entry (when cash is paid):** Debit: Prepaid Insurance (asset), Credit: Cash. **Adjusting Entry (at the end of each month as insurance expires):** Debit: Insurance Expense, Credit: Prepaid Insurance.
+3. **Depreciation**
+	1. **Depreciation (for Tangible Assets like Equipment, Buildings):** Allocating the cost of a long-term tangible asset over its useful life as an expense. This reflects the asset's wear and tear or obsolescence over time. **Entry:** Debit: Depreciation Expense, Credit: Accumulated Depreciation (contra-asset account).
+
+
+
+# Glossary
+
+##### Accounting
+##### Accounting cycle
+##### Financial accounting
+##### Journal entry
+##### Double entry accounting
+##### Accounting equation
+##### Assets
+##### Liabilities
+##### Equity
+##### Debit
+##### Credit
+##### General ledger
+##### Accounts
+##### Revenue
+##### Expenses
+##### Dividends
+##### T accounts
+##### Trial Balance
+##### Financial statements
+##### Adjusting entries
+##### Accrual method of accounting
+##### Cash accounting
+##### Balance sheet
+##### Income statement
+##### Cash flow statement
+##### Closing entries
+##### Chart of Accounts
+
+
