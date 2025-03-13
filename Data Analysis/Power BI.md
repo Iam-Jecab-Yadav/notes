@@ -500,4 +500,38 @@
 	1. filter
 	2. highlight
 	3. none
+3. Filter
+	1. 3 levels of filter
+		1. Visual
+		2. Page
+		3. Report
+	2. 3 Types of filter
+		1. Basic
+		2. Advanced
+		3. Top N / Bottom N
+	3. Date filter
+		1. Relative date
+		2. Relative time
+4. Slicer - It is a visual
+	1. Date and number slicer
+	2. Text slicer
+5. Text box
+6. Slicer Synchronization - There are essentially two options here, one is actual sync with page and other is whether we can see that slice of that page or not
+	1. Sync
+	2. View / Visible
+7. Sort
+8. Small Multiples - If we add field in small multiples it will create one chart for one value of small multiple.
+9. Bookmark - Create a snapshot of current state with selected slicers, filter, etc.
+10. Selection pane and Groups -  Selection pane help in toggling visibility of an visuals and we can create groups made up of 2 or more visuals.
+11. Drill through -a feature that allows users to navigate from a summary view of data to a more detailed view.
+12. Buttons and actions - We can customize what buttons do by action following are options
+	1. Drill through
+	2. Back
+	3. Page navigation
+	4. Bookmark
+	5. Web URL
+	6. QnA /  Natural language query
+13. Tooltip -  We can create a page and set it up as tooltip via page info.
+14. Page navigator and bookmark navigator - we can create navigators for page and bookmarks which behave like slicer and will navigate user to page or bookmark.
+15. 
 
