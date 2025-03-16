@@ -93,6 +93,8 @@
 	1. **Power BI AppSource:** A marketplace for pre-built custom visuals developed by Microsoft and the community. Expands the visual options beyond the built-in visuals.
 	2. **Custom Visual Development:** You can develop your own custom visuals using the Power BI visuals SDK to create highly specific or branded visualizations.
 
+[[Visuals and their fields]]
+
 
 ######  When to use given chart
 - **Comparison Charts (Comparing Values Across Categories or Time)**
@@ -533,5 +535,32 @@
 	6. QnA /  Natural language query
 13. Tooltip -  We can create a page and set it up as tooltip via page info.
 14. Page navigator and bookmark navigator - we can create navigators for page and bookmarks which behave like slicer and will navigate user to page or bookmark.
-15. 
+15. Conditional formatting
+	1. Gradient
+	2. Rules
+	3. Field value
+16. Quick measure
+17. Export data - we can export data of a visualization into CSV.
+18. Reference line - we can add a line in some of the visualization for specific purpose example showing target which is constant line.
+	1. Min
+	2. Max
+	3. Avg
+	4. Median
+	5. Constant
+	6. Trendline
+	7. Forecast line
+	8. Percentile line
+19. Error bars - if we are not confident that our data is 100% accurate then we can have margin of error as error bar in both upper bound and lower bound.
+20. Identify outlier
+21. Clustering -  we can use clustering in scatter plot but date should not be hierarchy. 
+22. Anomaly detection - only in line chart
+23. Narrative visual - 
+24. Group and bin
+25. Key influencers
+26. Analyze feature
+27. AI visual decomposition tree
+28. accessibility
+29. Custom theme
+30. Paginated report
+31. Report builder
 
