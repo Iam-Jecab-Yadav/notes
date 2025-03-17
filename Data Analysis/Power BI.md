@@ -564,3 +564,16 @@
 30. Paginated report
 31. Report builder
 
+
+### Power query / Get data
+
+### Data model
+
+### Power service
+
+
+### [[Power BI theocraticals]]
+
+
+
+

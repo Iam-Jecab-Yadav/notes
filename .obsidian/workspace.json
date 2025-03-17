@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7196ad00e52316b3",
+        "id": "a99f560c510b4c82",
         "type": "tabs",
         "children": [
           {
-            "id": "686514df55ad89d7",
+            "id": "be1b5030f324380a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Analysis/Power BI.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Power BI"
+              "title": "New tab"
             }
           }
         ]
@@ -169,10 +165,11 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "686514df55ad89d7",
+  "active": "be1b5030f324380a",
   "lastOpenFiles": [
-    "Adhoc/Visuals and their fields.md",
+    "Adhoc/Power BI theocraticals.md",
     "Data Analysis/Power BI.md",
+    "Adhoc/Visuals and their fields.md",
     "Adhoc",
     "Assets/PowerBI_Cheatsheet_Zero_To_Mastery_V1.01.pdf",
     "Assets/7049a4f242d630cba50b916a44039b32_MD5.pdf",
