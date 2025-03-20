@@ -11,10 +11,14 @@
             "id": "be1b5030f324380a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Data Analysis/Power BI.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Power BI"
             }
           }
         ]
