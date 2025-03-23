@@ -8,6 +8,13 @@
 **Dashboards:** You can consolidate key visualizations and reports into dashboards for a high-level overview of your data.
 **Sharing and Collaboration:** Power BI facilitates sharing reports and dashboards with others and collaborating on data analysis.
 
+
+### [[Lifecycle of power BI project]]
+
+
+
+
+
 ### Workflow
 1. **Get Data:** Connect to your data sources using Power BI Desktop.
 2. **Transform Data (Power Query):** Clean, shape, and transform your data using Power Query Editor.
