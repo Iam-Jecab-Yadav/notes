@@ -1356,12 +1356,16 @@ The `VAR` keyword allows you to declare variables within a DAX expression. This 
     - Syntax: `CORR(<column1>, <column2>)`
 - **DATEADD** (Time Intelligence)
     - Syntax: `DATEADD(<dates>, <number_of_intervals>, <interval>)`
+    - This is a versatile function that shifts a given set of dates by a specified interval, You can move dates forward or backward by days, months, quarters, or years.
 - **PREVIOUSDAY** (Time Intelligence)
     - Syntax: `PREVIOUSDAY(<dates>)`
+    - This function returns a table containing all the dates from the previous day, based on the dates in the current filter context.
 - **NEXTMONTH** (Time Intelligence)
     - Syntax: `NEXTMONTH(<dates>)`
+    - This function returns a table containing all the dates from the next month, based on the dates in the current filter context.
 - **TOTALYTD** (Time Intelligence)
     - Syntax: `TOTALYTD(<expression>, <dates>[, <filter>][, <year_end_date>])`
+    - This function calculates the year-to-date (YTD) total for a given expression, up to the last date in the current filter context.
 
 
 
