@@ -993,6 +993,7 @@ Here's a detailed overview of DAX in Power BI:
     - **Logical Functions:** (e.g., `IF`, `AND`, `OR`, `NOT`, `SWITCH`) - Evaluate conditions and return different values based on the outcome.
     - **Information Functions:** (e.g., `ISBLANK`, `ISERROR`, `ISFILTERED`, `HASONEVALUE`) - Provide information about the data or the current context.
     - **Date and Time Functions:** (e.g., `TODAY`, `NOW`, `YEAR`, `MONTH`, `DAY`, `DATE`, `TIME`, `DATEDIFF`, `DATEADD`) - Work with date and time values.
+    -  **Filter Functions:** (e.g., `FILTER`, `ALL`, `ALLEXCEPT`, `ALLSELECTED`, `CALCULATE`, `KEEPFILTERS`, `HASONEVALUE`, `HASMANYVALUES`, `ISFILTERED`) - Helps in filter.
     - **Text Functions:** (e.g., `CONCATENATE`, `LEFT`, `RIGHT`, `MID`, `UPPER`, `LOWER`) - Manipulate text strings.
     - **Table Manipulation Functions:** (e.g., `FILTER`, `CALCULATETABLE`, `ALL`, `VALUES`, `DISTINCT`, `UNION`, `INTERSECT`, `EXCEPT`) - Create and modify tables.
     - **Relationship Functions:** (e.g., `RELATED`, `RELATEDTABLE`, `USERELATIONSHIP`) - Navigate and utilize relationships between tables.
@@ -1057,7 +1058,7 @@ The `VAR` keyword allows you to declare variables within a DAX expression. This 
 - **Performing what-if analysis:** Simulating different scenarios and their impact on results.
 - **Creating dynamic segmentation:** Grouping customers or products based on their behavior.
 
-#### Function list
+#### [[Functions]]
 
 
 **Aggregation Functions**
@@ -1311,6 +1312,15 @@ The `VAR` keyword allows you to declare variables within a DAX expression. This 
 - **ALLSELECTED**
     - Syntax: `ALLSELECTED([<table> | <column>[, <column>]...])`
     - Example: `ALLSELECTED(Products[Color])` - Returns all the values of the 'Color' column that are currently selected in a visual.
+- **ALL**
+    - Syntax: `ALL([<table> | <column>[, <column>]...])`
+    - Example: `ALL(Products)` - Returns all rows and columns from the 'Products' table, ignoring any filters.
+- **ALLEXCEPT**
+    - Syntax: `ALLEXCEPT(<table>, <column>[, <column>]...)`
+    - Example: `ALLEXCEPT(Sales, Products[Category])` - Returns all rows from 'Sales' but only respects filters on the 'Category' column from 'Products'.
+- **FILTER**
+    - Syntax: `FILTER(<table>, <filter>)`
+    - Example: `FILTER(Orders, Orders[OrderDate] > DATE(2024, 12, 31))` - Returns a table with orders placed after 2024.
 - **REMOVEFILTERS**
     - Syntax: `REMOVEFILTERS([<table> | <column>[, <column>]...])`
     - Example: `REMOVEFILTERS(Products[Category])` - Calculates a value ignoring any filters on the 'Category' column.
