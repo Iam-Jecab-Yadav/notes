@@ -1058,7 +1058,7 @@ The `VAR` keyword allows you to declare variables within a DAX expression. This 
 - **Performing what-if analysis:** Simulating different scenarios and their impact on results.
 - **Creating dynamic segmentation:** Grouping customers or products based on their behavior.
 
-#### [[Functions]]
+##### [[Functions]]
 
 
 **Aggregation Functions**
@@ -1378,6 +1378,11 @@ The `VAR` keyword allows you to declare variables within a DAX expression. This 
     - This function calculates the year-to-date (YTD) total for a given expression, up to the last date in the current filter context.
 
 
+#### [[Dax Query]]
+
+#### [[Dax Functions Input And Return]]
+
+![[Assets/6b5f5e75b1cf53b8c3676fb14fc75b5b_MD5.xlsx]]
 
 
 ### Power service
