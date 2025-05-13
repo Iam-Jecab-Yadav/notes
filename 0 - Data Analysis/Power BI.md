@@ -1,4 +1,4 @@
-
+[[Power BI short notes]]
 ### What is Power BI?
 **Business Intelligence Tool:** Power BI is a suite of tools from Microsoft designed for **data visualization and business intelligence**. It helps you analyze data and share insights.
 **Self-Service BI:** It's built to be user-friendly, allowing business users (not just IT) to create reports and dashboards without extensive technical skills.
@@ -1385,7 +1385,9 @@ The `VAR` keyword allows you to declare variables within a DAX expression. This 
 ![[Assets/6b5f5e75b1cf53b8c3676fb14fc75b5b_MD5.xlsx]]
 
 
-### Power service
+### [[Power service]]
+
+
 
 
 ### [[Power BI theocraticals]]

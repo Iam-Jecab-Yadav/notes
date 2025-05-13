@@ -14,14 +14,43 @@
               "type": "markdown",
               "state": {
                 "file": "0 - Data Analysis/Power BI.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Power BI"
             }
+          },
+          {
+            "id": "28c09c1420977a30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - Data Analysis/SQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQL"
+            }
+          },
+          {
+            "id": "9ac04a3b62aa6c1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - Data Analysis/Statistics & probability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Statistics & probability"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,19 +198,26 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "b66aa1f786fc2201",
+  "active": "e1ae96082e4f9ca2",
   "lastOpenFiles": [
+    "Untitled.md",
     "0 - Data Analysis/Statistics & probability.md",
-    "Adhoc/Accrual method of accounting.md",
     "0 - Data Analysis/SQL.md",
     "0 - Data Analysis/Python.md",
     "0 - Data Analysis/Power BI.md",
     "0 - Data Analysis/Excel.md",
     "0 - Data Analysis/Computer Science.md",
+    "Adhoc/Database Overview.md",
+    "Untitled 1.md",
+    "Adhoc/Power BI short notes.md",
+    "Adhoc/Functions.md",
+    "Adhoc/Dashboards.md",
+    "Adhoc/Power service.md",
+    "Adhoc/Row-Level Security (RLS).md",
+    "Adhoc/Accrual method of accounting.md",
     "Adhoc/Visuals and their fields.md",
     "Adhoc/PM Concepts.md",
     "Adhoc/Waterfall Methodology.md",
-    "Adhoc/Functions.md",
     "Adhoc/Dax Functions Input And Return.md",
     "Assets/~$6b5f5e75b1cf53b8c3676fb14fc75b5b_MD5.xlsx",
     "Assets/6b5f5e75b1cf53b8c3676fb14fc75b5b_MD5.xlsx",
@@ -206,15 +242,11 @@
     "Assets/power bi workflow 1.png",
     "Assets/power bi workflow.png",
     "Accounts/Accounting.md",
-    "Accounts/Accounting old.md",
-    "Test.md",
-    "Assets/c731eee7eef09ab6562642a21af1ab45_MD5.jpeg.md",
     "Accounts",
     "Assets",
     "0 - Data Analysis",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "3 Templates",
-    "Welcome.md"
+    "3 Templates"
   ]
 }
