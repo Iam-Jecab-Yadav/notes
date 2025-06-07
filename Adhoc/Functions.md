@@ -122,7 +122,7 @@ These require a well-formed 'Date' table marked as such in the data model.
     - **Description:** Evaluates the month-to-date value of the expression in the current context. Shortcut for `CALCULATE(<expression>, DATESMTD(<dates>))`.
 7. **SAMEPERIODLASTYEAR**
     - **Syntax:** `SAMEPERIODLASTYEAR(<dates>)`
-    - **Description:** Returns a table that contains a column of dates shifted one year back in time from the dates in the specified dates column, in the current context.3
+    - **Description:** Returns a table that contains a column of dates shifted one year back in time from the dates in the specified dates column, in the current context.
 8. **PREVIOUSYEAR**
     - **Syntax:** `PREVIOUSYEAR(<dates>[, <year_end_date>])`
     - **Description:** Returns a table containing all dates from the previous year, based on the last date in the input column.
