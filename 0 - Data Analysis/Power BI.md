@@ -1063,6 +1063,18 @@ The `VAR` keyword allows you to declare variables within a DAX expression. This 
 
 **[[DAX Functions]]**
 
+**[[Dax Pattern]]**
+
+**[[Time Intelligence]]**
+
+
+
+
+
+
+
+
+
 
 
 

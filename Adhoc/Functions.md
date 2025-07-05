@@ -134,7 +134,7 @@ These require a well-formed 'Date' table marked as such in the data model.
     - **Description:** Returns a table containing all dates from the previous month, based on the last date in the input column.
 11. **DATEADD**
     - **Syntax:** `DATEADD(<dates>, <number_of_intervals>, <interval>)`
-    - **Description:** Returns a table containing a column of dates, shifted either forward or backward in time by the specified number of intervals from the dates in the current context.4 Interval can be DAY, MONTH, QUARTER, YEAR.
+    - **Description:** Returns a table containing a column of dates, shifted either forward or backward in time by the specified number of intervals from the dates in the current context. Interval can be DAY, MONTH, QUARTER, YEAR.
 12. **DATESBETWEEN**
     - **Syntax:** `DATESBETWEEN(<dates>, <start_date>, <end_date>)`
     - **Description:** Returns a table that contains a column of dates that begins with the start_date and continues until the end_date.
@@ -352,7 +352,7 @@ Basic extraction from date/time values.
     - **Description:** Creates a time value from separate hour, minute, and second numbers.
 7. **EOMONTH**
     - **Syntax:** `EOMONTH(<start_date>, <months>)`
-    - **Description:** Returns the date, in datetime format, of the last day of the month before or after a specified number of months.7
+    - **Description:** Returns the date, in datetime format, of the last day of the month before or after a specified number of months.
 8. **EDATE**
     - **Syntax:** `EDATE(<start_date>, <months>)`
     - **Description:** Returns the date that is the indicated number of months before or after the start date.
